@@ -117,6 +117,7 @@ const dharam = {
 <img src="https://dhameliya.com/logos/postgresql.svg" height="50px" title="PostgreSQL" style="margin: 8px;" />
 <img src="https://dhameliya.com/logos/mongodb.svg" height="50px" title="MongoDB" style="margin: 8px;" />
 <img src="https://dhameliya.com/logos/mysql.svg" height="50px" title="MySQL" style="margin: 8px;" />
+<img src="https://dhameliya.com/logos/sqlite.svg" height="50px" title="MySQL" style="margin: 8px;" />
 </td>
 </tr>
 
