@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Dharam%20Dhameliya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Animated Typing Text -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;JavaScript+%7C+TypeScript+Expert+%E2%9A%A1;Building+Real-time+%26+Scalable+Applications+%F0%9F%9A%80;Data+Visualization+Specialist+%F0%9F%93%8A;From+Germany+%F0%9F%87%A9%F0%9F%87%AA+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Software+Engineer+%F0%9F%92%BB;JavaScript+%7C+TypeScript+Expert+%E2%9A%A1;Building+Real-time+%26+Scalable+Applications+%F0%9F%9A%80;Data+Visualization+Specialist+%F0%9F%93%8A;From+Germany+%F0%9F%87%A9%F0%9F%87%AA+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 
 <br/>
 
