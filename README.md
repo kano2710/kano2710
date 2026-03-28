@@ -29,7 +29,7 @@
 
 ```typescript
 const dharam = {
-    location: "📍 Ingolstadt, Germany 🇩🇪",
+    location: "📍 Chemnitz, Germany 🇩🇪",
     education: "🎓 M.Sc. Web Engineering @ TU Chemnitz",
     workingOn: "Invoice Management System",
     
