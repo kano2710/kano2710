@@ -183,7 +183,7 @@ const dharam = {
 </a>
 </p>
 
-### 🎯 What I'm Looking For
+<!-- ### 🎯 What I'm Looking For
 ```
 ✨ Full-Stack Developer roles in innovative companies
 🌍 Remote or Germany-based opportunities
@@ -192,7 +192,7 @@ const dharam = {
 ```
 
 <br/><br/>
-
+-->
 ### 💡 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
@@ -203,10 +203,6 @@ const dharam = {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=30&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together!&descSize=16&descAlignY=90" width="100%"/>
-</div>
-
-<div align="center">
-  <sub>Made with ❤️ by Dharam Dhameliya</sub>
 </div>
 
 </div>
