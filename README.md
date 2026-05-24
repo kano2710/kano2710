@@ -35,7 +35,7 @@ const dharam = {
     
     expertise: {
         frontend: ["Angular", "React", "Vue.js", "TypeScript"],
-        backend & APIs: ["Node.js", "NestJS", "Express", "Spring Boot"],
+        backend: ["Node.js", "NestJS", "Express", "Spring Boot"],
         databases: ["PostgreSQL", "MongoDB", "MySQL", "Stardog"],
         cloud: ["Azure", "Docker", "CI/CD"],
         realtime: ["WebSocket", "Socket.IO", "ROS2", "GraphQL", "REST"],
@@ -96,7 +96,7 @@ const dharam = {
 
 <tr>
 <td align="center" style="padding: 20px 30px;">
-<h3>Backend</h3>
+<h3>Backend & APIs</h3>
 </td>
 <td style="padding: 20px 30px;">
 <img src="https://dhameliya.com/logos/nodejs.svg" height="50px" title="Node.js" style="margin: 8px;" />
