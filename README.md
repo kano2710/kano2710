@@ -74,9 +74,7 @@ const dharam = {
 <td style="padding: 20px 30px;">
 <img src="https://dhameliya.com/logos/javascript.svg" height="50px" title="JavaScript" style="margin: 8px;" />
 <img src="https://dhameliya.com/logos/typescript.svg" height="50px" title="TypeScript" style="margin: 8px;" />
-<img src="https://dhameliya.com/logos/python.svg" height="50px" title="Python" style="margin: 8px;" />
 <img src="https://dhameliya.com/logos/cpp.svg" height="50px" title="C++" style="margin: 8px;" />
-<img src="https://dhameliya.com/logos/csharp.svg" height="50px" title="C#" style="margin: 8px;" />
 <img src="https://dhameliya.com/logos/php.svg" height="50px" title="PHP" style="margin: 8px;" />
 <img src="https://dhameliya.com/logos/html.svg" height="50px" title="HTML5" style="margin: 8px;" />
 <img src="https://dhameliya.com/logos/css.svg" height="50px" title="CSS3" style="margin: 8px;" />
