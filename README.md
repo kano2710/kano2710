@@ -35,7 +35,7 @@ const dharam = {
     
     expertise: {
         frontend: ["Angular", "React", "Vue.js", "TypeScript"],
-        backend: ["Node.js", "NestJS", "Express", "Spring Boot"],
+        backend & APIs: ["Node.js", "NestJS", "Express", "Spring Boot"],
         databases: ["PostgreSQL", "MongoDB", "MySQL", "Stardog"],
         cloud: ["Azure", "Docker", "CI/CD"],
         realtime: ["WebSocket", "Socket.IO", "ROS2", "GraphQL", "REST"],
